@@ -1,3 +1,1 @@
-#index.md
-
-Might need this to get pages to work, temp text for now. 
+This is my DATA602 page. I hope this works
